@@ -9,3 +9,5 @@ git status
 git add -A [adds all]
 git commit -m "commit message"
 git push
+
+now editing from Rstudio!
